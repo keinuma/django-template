@@ -5,6 +5,8 @@
 - Python 3.7.0 or later
 
 ## 起動方法
+`.env.example` を修正して、`.env` ファイルを作成する
+
 ```bash
 # 初めて起動する場合
 $ docker-compose up --build
